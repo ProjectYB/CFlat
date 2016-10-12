@@ -1,6 +1,5 @@
 @echo off
-echo .
+echo.
 echo 윈도우 환경 실행
-echo .
-start Scripts\activate.bat
-bin\antlr4env.bat
+echo.
+bin\antlr4env.bat & Scripts\activate.bat
