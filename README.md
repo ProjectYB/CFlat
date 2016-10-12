@@ -5,8 +5,9 @@ git clone https://github.com/Goyunho/CFlat.git
 <pre><code> start.bat </code></pre>
 1. python 가상환경을 실행해주고
 2. doskey(리눅스의 alias)로 명령어를 antlr4에 포팅해준다.
-* 자바가 설치되어있어야 한다.
-* 이후 실행할 때는 start.bat 해도 되고 Script\activate.bat만 실행해도 된다.
+
+> * 자바가 설치되어있어야 한다.
+> * 이후 실행할 때는 start.bat 해도 되고 Script\activate.bat만 실행해도 된다.
 
 #.g4로 이루어진 문법 파일이 있으면
 <pre><code> antlr4py3 test.g4 </code></pre>
