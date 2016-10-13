@@ -1,1 +1,2 @@
-hello world 
+hello world
+return 34.12
